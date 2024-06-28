@@ -18,7 +18,7 @@ The dataset used in this project ontains information about the Netflix shows and
 * description: brief description of thw sho or movies
 
 ANALYSIS AND VISUALIZATONS
-1.Data cleaning: Identfied and managed missing values in the dataset
+1.Data cleaning: Identfied and managed missing values in the dataset.
 2.Data processing: the genre,cast and director column were split and explored to handle multiple entries
 
 CONCLUSION
